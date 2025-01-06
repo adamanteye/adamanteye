@@ -4,7 +4,7 @@
 
 ## Coding Time
 
-![adamanteyes wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=adamanteye&api_domain=wakatime.adamanteye.cc&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+7+Days%29&layout=compact)
+![adamanteyes wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=adamanteye&api_domain=wakatime.adamanteye.cc&bg_color=EFF1F5&title_color=8839EF&icon_color=2F855A&text_color=4C4F69&custom_title=Wakapi+Stats+(Last+7+Days)&layout=compact)
 
 ## Contact
 
