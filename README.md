@@ -1,6 +1,6 @@
 ## GitHub Stats
 
-[![adamanteyes GitHub stats](https://github-readme-stats.vercel.app/api?username=adamanteye&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+![adamanteyes GitHub stats](https://github-readme-stats.vercel.app/api?username=adamanteye&show_icons=true&theme=catppuccin_latte&card_width=520&show=reviews,prs_merged,prs_merged_percentage)
 
 ## Coding Time
 
