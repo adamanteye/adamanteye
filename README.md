@@ -1,7 +1,10 @@
 ## GitHub Stats
 
+<table><tr><td>
 <img height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=adamanteye&show_icons=true&theme=catppuccin_latte&show=reviews,prs_merged,prs_merged_percentage" />
+</td><td>
 <img height=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamanteye&layout=compact&langs_count=8&card_width=320&theme=catppuccin_latte" />
+</td></tr></table>
 
 ## Coding Time
 
