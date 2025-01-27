@@ -17,8 +17,10 @@
 
 ## Contact
 
-My ssh public key:
+Copy my ssh public key:
 
 ```txt
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH6wBtSo5+x4Ok41hRJu61NEfKV82ckUVNeIahLLRR1j openpgp:0xCA339C30
 ```
+
+Download my [gpg public key](https://gpg.adamanteye.cc/ada.pub).
