@@ -6,7 +6,7 @@
 ## GitHub Stats
 
 <table><tr><td>
-<img height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=adamanteye&show_icons=true&theme=catppuccin_latte&show=reviews,prs_merged,prs_merged_percentage" />
+<img height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=adamanteye&show_icons=true&theme=catppuccin_latte&show=reviews,prs_merged" />
 </td><td>
 <img height=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamanteye&hide=gdb,rpc,json,yaml,toml&layout=compact&langs_count=12&card_width=320&theme=catppuccin_latte" />
 </td></tr></table>
