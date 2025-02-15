@@ -23,4 +23,4 @@ Copy my ssh public key:
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH6wBtSo5+x4Ok41hRJu61NEfKV82ckUVNeIahLLRR1j openpgp:0xCA339C30
 ```
 
-Download my [gpg public key](https://gpg.adamanteye.cc/ada.pub)(`392B 42B7 C9EC 291D 688E  C27E 68DA A020 BA0D 6A1F`).
+Download my [gpg public key](https://gpg.adamanteye.cc/ada.pub): `392B 42B7 C9EC 291D 688E  C27E 68DA A020 BA0D 6A1F`.
