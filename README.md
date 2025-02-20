@@ -13,7 +13,7 @@
 
 ## Coding Time
 
-![adamanteyes wakatime](<https://github-readme-stats.vercel.app/api/wakatime?username=adamanteye&api_domain=wakatime.adamanteye.cc&theme=catppuccin_latte&custom_title=Wakapi+Stats+(Last+7+Days)&layout=compact>)
+![adamanteyes wakatime](<https://github-readme-stats.vercel.app/api/wakatime?username=adamanteye&api_domain=wakatime.adamanteye.cc&theme=catppuccin_latte&custom_title=Wakapi+Stats+(All+Time)&layout=compact>)
 
 ## Contact
 
